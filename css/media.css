@@ -1,0 +1,98 @@
+@media(max-width: 460px) {
+    .container {
+        max-width: 360px;
+    }
+
+    .logo_block {
+        flex-direction: column;
+    }
+
+    .logo_block h1 {
+        font-size: 25px;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .img__section1 {
+
+        flex-direction: column;
+        width: 400px;
+    }
+
+    .img__blok4 {
+        display: none;
+    }
+
+    .section_foot {
+        height: 5px;
+        width: 110px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .text_m h2 {
+        font-size: 24px;
+    }
+
+    .big__img {
+        width: 90%;
+        height: 200px;
+        margin-left: 20px;
+    }
+
+    .about__project {
+        font-size: 20px;
+    }
+
+    .text_downlond {
+        font-size: 20px;
+    }
+
+    .android_pic img {
+        width: 130px;
+        height: 101px;
+    }
+
+    .qar_pic img {
+        width: 87px;
+        height: 87px;
+    }
+
+    .text__logo {
+        font-size: 20px;
+    }
+
+    .text_some {
+        font-size: 24px;
+    }
+
+    .sectioin_q {
+        margin: 0%;
+    }
+
+    .footer_blok2 {
+        flex-direction: column;
+    }
+
+    .footer_text h2 {
+        font-size: 10px;
+        /* flex-direction: column; */
+        /* align-items: center; */
+    }
+
+    .footer_text p {
+        font-size: 10px;
+        /* flex-direction: column; */
+        /* align-items: center; */
+    }
+
+    .small__img {
+        width: 50px;
+        height: 50px;
+
+    }
+
+
+}
